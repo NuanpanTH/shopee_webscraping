@@ -1,6 +1,6 @@
 # Thailand: Popular microwave and oven brands on Shopee, November 2022
 
-![Bubble_chart](./image/shopee_chart.png)
+![Bubble_chart](./img/shopee_chart.png)
 
 Electrolux is the best-selling microwave and oven brand in Shopee – an e-Commerce marketplace in Thailand. Electrolux microwave oven with an added grill function triumphed as the most purchased product, with more than 6000 items sold as of November 2022 and priced under 3,500 baht as most microwaves and oven brands mainly applied for household use.
 
