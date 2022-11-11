@@ -1,4 +1,5 @@
-# Thailand: Popular microwave and oven brands on Shopee, November 2022
+# Thailand: Popular microwave and oven stores on Shopee, November 2022
+## This project uses web scraping technique on Shopee.co.th
 
 ![Bubble_chart](./img/shopee_chart.png)
 
