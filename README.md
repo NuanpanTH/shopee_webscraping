@@ -6,4 +6,6 @@ Electrolux is the best-selling microwave and oven brand in Shopee – an e-Comme
 
 The second most-preferred store is INSSA. It offers a wide variety of brands with Korean/Japanese-inspired designs and a hint of minimalism – the design philosophy that has commonly seen in Thai households.
 
-Chaichana store is leading in the sales of microwaves and ovens intended for commercial and industrial purposes. The store’s most-purchased product is the commercial oven with 3,200 watts, with almost 3,000 items sold as of November 2022 and priced at around 8,000 baht. 
+Chaichana store is leading in the sales of microwaves and ovens intended for commercial and industrial purposes. The store’s most-purchased product is a 3,200 watt commercial oven which has a selling price of 8,000 baht. A nearly 3,000 items were sold as of November 2022. 
+
+
